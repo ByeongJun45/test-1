@@ -14,3 +14,5 @@
 >>인용구 ->  >>
 
 `function add(x,y) {return x + y}` -> `
+
+![올리브](./images/KakaoTalk_20190625_211437847.gip)
